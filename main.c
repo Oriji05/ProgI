@@ -17,6 +17,7 @@ int main() {
 
     printf("time: %d, element: %d", time, element);
     printf("ho la capocchia infiammata\n");
+    printf("mi dispiace per nello");
 }
 
 
