@@ -16,6 +16,7 @@ int main() {
     moda(value, sizeof(value)/sizeof(int), &time, &element);
 
     printf("time: %d, element: %d", time, element);
+    printf("ho la capocchia infiammata\n");
 }
 
 
